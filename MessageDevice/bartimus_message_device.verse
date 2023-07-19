@@ -69,7 +69,6 @@ bartimus_message_device := class(creative_device) {
 
     QueueClearMessage<public>(TextToClear: text_block)<suspends> : void = {
         Sleep(MessageShowTime)
-        Print("Waited... Clearing text")
         TextToClear.SetText(EmptyText())
     }
 
