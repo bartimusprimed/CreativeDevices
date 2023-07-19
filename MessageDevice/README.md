@@ -1,6 +1,6 @@
 # How to use the device?
 
-Copy and paste this code into an empty verse file that you created
+Copy and paste the code found in `bartimus_message_device.verse` into an empty verse file that you created
 
 Then start the device (preferably with a game_manager or something) with something like this below
 ```
