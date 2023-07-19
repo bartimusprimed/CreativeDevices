@@ -27,3 +27,4 @@ game_manager := class(creative_device) {
         PlayerUIManager.BroadcastGlobalMessage("This is a message to all Players!")
 }
 ```
+![](MessageDevice.png)
